@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
    yarn install
    ```
 
-4. Obtain your GIPHY API key from [GIPHY Developers](https://developers.giphy.com/) and replace `"YOUR_API_KEY"` in the code with your actual API key.
+4. Obtain your GIPHY API key from [GIPHY Developers](https://developers.giphy.com/) and replace `"YOUR_API_KEY"` in the `.ENV` code with your actual API key.
 
 5. Start the development server:
 
